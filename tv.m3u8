@@ -1,4 +1,86 @@
 #EXTM3U
+#EXTINF:-1,MBC1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
+#EXTINF:-1,MBC 2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
+#EXTINF:-1,MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8
+#EXTINF:-1,MBC 4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/03.m3u8
+#EXTINF:-1,MBC MAX
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
+#EXTINF:-1,MBC ACTION
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
+#EXTINF:-1,MBC MASR
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/03.m3u8
+#EXTINF:-1,MBC DRAMA
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/03.m3u8
+#EXTINF: -1, MBC BOLLYWOOD
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
+#EXTINF: -1, LBC SAT
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/03.m3u8
+#EXTINF: -1, Aljadeed
+http://livecdnh3.tvanywhere.ae/hls/jadeed/03.m3u8
+#EXTINF: -1, OTV
+http://livecdnh2.tvanywhere.ae/hls/otv_leb/03.m3u8
+#EXTINF : -1, FUTURE
+http://livecdnh2.tvanywhere.ae/hls/future/03.m3u8
+#EXTINF:-1,Rotana classic
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/03.m3u8
+#EXTINF:-1,Rotana aflam
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/03.m3u8
+#EXTINF:-1,Rotana cinema
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/03.m3u8
+#EXTINF:-1,Rotana masrya drama
+http://livecdnh3.tvanywhere.ae/hls/rotmas/03.m3u8
+#EXTINF:-1,Rotana khalijiah
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/03.m3u8
+#EXTINF:-1,Rotana clip
+http://livecdnh3.tvanywhere.ae/hls/rotclip/03.m3u8
+#EXTINF: -1, Al Jazeera Documentary
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF: -1, Nat geo people HD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF: -1, Nat geo people SD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+#EXTINF: -1, Nat geo wild SD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+#EXTINF: -1, Nat geo wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 group-title=”Egypt”, Cairo drama
+http://109.236.92.216:9090/Cairo_Drama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=”Rotana”,rotana aflam
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/index.m3u8
+#EXTINF:-1 group-title=”Rotana”,rotana cinema
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/index.m3u8
+#EXTINF:-1 group-title=”Rotana”,rotana classic
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/index.m3u8
+#EXTINF:-1 group-title=”Rotana”,rotana clip
+http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
+#EXTINF:-1 group-title=”Rotana”,Rotana music
+http://livecdnh3.tvanywhere.ae/hls/rotmusic/index.m3u8
+#EXTINF:-1 group-title=”Rotana”,rotana drama
+http://livecdnh3.tvanywhere.ae/hls/rotmas/index.m3u8
+#EXTINF:-1 group-title=”Rotana”,rotana khalijia
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/index.m3u8
+#EXTINF:-1 group-title=”Egypt”,DMC DRAMA
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
+#EXTINF:-1 group-title=”Egypt”,ALNAHAR
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd/03.m3u8
+#EXTINF:-1 group-title=”Egypt”,ALNAHAR DRAMA
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/03.m3u8
+#EXTINF:-1 group-title=”Egypt”,AL HAYAT
+http://livecdnh2.tvanywhere.ae/hls/hayat/03.m3u8
+#EXTINF:-1 group-title=”Egypt”,CBC DRAMA
+http://livecdnh2.tvanywhere.ae/hls/cbc_drama/03.m3u8
+#EXTINF:-1 group-title=”Egypt”,AL KAHERA O AL NAS
+http://livecdnh2.tvanywhere.ae/hls/kahera_nas/03.m3u8
+#EXTINF:-1 group-title=”Movies”,Osn star world
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+#EXTINF:-1 group-title=”Movies”,Osn star movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:-1 group-title=”Movies”,cinema 1 sd
+http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
 #EXTINF:0,Sky Disney
 http://95.170.215.118/hls/m3u8/Sky-MoviesDisney.m3u8|user-agent=”Lavf/56.15.102″
 #EXTINF:0,Sky Family

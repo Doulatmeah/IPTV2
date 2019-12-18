@@ -5,3 +5,5 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-1",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2",Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8

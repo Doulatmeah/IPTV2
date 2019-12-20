@@ -25,7 +25,7 @@ http://live.robitvplus.com/hls/Pn3kL5HiebTeulCHWBneig/1576769899/atn_music_hi/in
 http://27.147.156.14:1935/DBC-TV/DBC-TV.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BAN", DBC NEWS 2
 https://triangle.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BAN", DBC NEWS3
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BAN", DBC NEWS 3
 http://103.231.228.229/hls/HDMI12.m3u8
 #EXTINF:-1, tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="BAN", News 24
 http://27.147.156.14:1935/News24-HD/News24-HD.stream/chunklist_w367279928.m3u8
@@ -47,9 +47,9 @@ http://live.robitvplus.com/hls/nR2Ies0R7nGHM_5wOztF4A/1576769886/boishakhi_tv_hi
 https://triangle.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="BAN", Bangla Vision
 http://27.147.156.14:1935/Bangla-Vision/Bangla-Vision.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="BAN", SA TV
-http://live.robitvplus.com/hls/SUTUEOI_N78jyJJGkUnKGg/1576769867/sa_tv_hi/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="BAN", SATV
+http://live.robitvplus.com/hls/SUTUEOI_N78jyJJGkUnKGg/1576769867/sa_tv_hi/index.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="BAN", SATV 2
 https://triangle.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/68005_indipendent.jpg" group-title="BAN", Independent TV
 http://live.robitvplus.com/hls/R_IQrjt6LDwF4F1ZAW8P4w/1576769829/independent_tv_hi/index.m3u8

@@ -151,6 +151,38 @@ http://103.81.104.222/live/discovery-ch/index.m3u8
 #EXTINF:-1, tvg-logo="http://robiscreen.com/yt_th_mq/4-ZG-HIyn3Q_mq.jpg" group-title="BAN DRAMA", চার বিবিই চমৎকার
 http://vod.robitvplus.com/vod/vod/N/U/NUhh58vCzLg/NUhh58vCzLg_480p.m3u8
 
+#EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
+http://pockettv.xyz/api/zee.m3u8?c=9xtashan
+#EXTINF:-1, group-title="IND", ZEE TV
+http://pockettv.xyz/api/zee.m3u8?c=zeetvsd
+#EXTINF:-1, group-title="IND", ZEE TV HD
+http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
+#EXTINF:-1, group-title="IND",ZEE NEWS
+http://pockettv.xyz/api/zee.m3u8?c=zeenews
+#EXTINF:-1, group-title="IND",AND PICTURES HD
+http://pockettv.xyz/api/zee.m3u8?c=andpicshd
+#EXTINF:-1, group-title="IND", ZEE ACTION
+http://pockettv.xyz/api/zee.m3u8?c=action
+#EXTINF:-1, group-title="IND", ZEE BOLLYWOOD
+http://pockettv.xyz/api/zee.m3u8?c=classic
+#EXTINF:-1, group-title="IND",AND PICTURES
+http://pockettv.xyz/api/zee.m3u8?c=andpicssd
+#EXTINF:-1 group-title="IND", And TV
+http://pockettv.xyz/api/zee.m3u8?c=andtvsd
+#EXTINF:-1 group-title="IND", And TV HD
+http://pockettv.xyz/api/zee.m3u8?c=andtvhd
+#EXTINF:-1,group-title="IND",ZEE AFLAM
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+
+#EXTINF:-1,group-title="IND", &Flix HD
+https://akamai.anytv.live/StarBharatHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="IND", MBC BOLLYWOOD
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:-1, group-title="IND", B4U PLUS
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1, group-title="IND", CINE MOVIES
+http://cdn.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
+
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="IND", Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/index.m3u8

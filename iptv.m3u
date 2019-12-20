@@ -151,6 +151,7 @@ http://103.81.104.222/live/discovery-ch/index.m3u8
 #EXTINF:-1, tvg-logo="http://robiscreen.com/yt_th_mq/4-ZG-HIyn3Q_mq.jpg" group-title="BAN DRAMA", চার বিবিই চমৎকার
 http://vod.robitvplus.com/vod/vod/N/U/NUhh58vCzLg/NUhh58vCzLg_480p.m3u8
 
+
 #EXTINF:-1, tvg-logo="https://image3.mouthshut.com/images/imagesp/925739638s.png" group-title="IND", Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sony_MAX_logo.svg/1200px-Sony_MAX_logo.svg.png" group-title="IND", Sony Max
@@ -167,4 +168,12 @@ http://live.robitvplus.com/hls/bem-7WZcbU3kidV274G6Uw/1576769852/hum_sitarey_hi/
 http://live.robitvplus.com/hls/oIapXQBShlJHdf79ONmYEQ/1576769858/dw_hi/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.gco.gov.qa/wp-content/uploads/2018/04/al-jaz.jpg" group-title="ENG", Al Jazeera
 http://live.robitvplus.com/hls/_uJbj-lTXrhK5Wn-DxGxzg/1576769839/al_jazeera_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/nz-nat-geo-people-5797.jpg" group-title="Documentary",Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 tvg-logo="http://fpwg.info/wp-content/uploads/2015/07/National-Geographic-logo-640x380.png" group-title="Documentary",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-logo="http://fpwg.info/wp-content/uploads/2015/07/National-Geographic-logo-640x380.png" group-title="Documentary",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 

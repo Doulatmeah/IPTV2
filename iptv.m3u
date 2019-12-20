@@ -21,10 +21,12 @@ http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://live.robitvplus.com/hls/6WwORWbkVJD0Za-VhUbJsA/1576769905/atn_islamic_tv_hi/index.m3u8
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/47521_atn-music.jpg" group-title="BAN", ATN Music
 http://live.robitvplus.com/hls/Pn3kL5HiebTeulCHWBneig/1576769899/atn_music_hi/index.m3u8
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/59576_dbctv.jpg" group-title="BAN", DBC NEWS
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BAN", DBC NEWS
 http://27.147.156.14:1935/DBC-TV/DBC-TV.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/59576_dbctv.jpg" group-title="BAN", DBC NEWS 1
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BAN", DBC NEWS 2
 https://triangle.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BAN", DBC NEWS3
+http://103.231.228.229/hls/HDMI12.m3u8
 #EXTINF:-1, tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="BAN", News 24
 http://27.147.156.14:1935/News24-HD/News24-HD.stream/chunklist_w367279928.m3u8
 #EXTINF:-1, tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x91288" group-title="BAN", Ananda TV
@@ -35,8 +37,6 @@ https://triangle.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 https://akamai.anytv.live/ekattorHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/02/71banglatv.jpg" group-title="BAN", 71 BANGLA TV
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSAzOjAzOjU0IFBNJmhhc2hfdmFsdWU9NUJPNVpZZDM2MExBQ2lVK3ZKaFlGdz09JnZhbGlkbWludXRlcz02MCZpZD0wNg==
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BAN", DBC NEWS
-http://103.231.228.229/hls/HDMI12.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="BAN", Gaan Bangla
 http://live.robitvplus.com/hls/QGwaniRWyvXm5b7mTHkviQ/1576769893/gaan_bangla_hi/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="BAN", Gaan Bangla 2

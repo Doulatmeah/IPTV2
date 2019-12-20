@@ -55,7 +55,7 @@ https://triangle.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 http://live.robitvplus.com/hls/R_IQrjt6LDwF4F1ZAW8P4w/1576769829/independent_tv_hi/index.m3u8
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/68005_indipendent.jpg" group-title="BAN", INDEPENDENT TV
 https://triangle.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG" group-title="Bangla", Mohona TV
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG" group-title="BAN", Mohona TV
 http://live.robitvplus.com/hls/KcTSNthNSvuuC0TGsf0R8w/1576769817/mohona_tv_hi/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="BAN", My TV
 http://live.robitvplus.com/hls/4xRGWehYeQDPb64D8S5RAA/1576769810/my_tv_hi/index.m3u8

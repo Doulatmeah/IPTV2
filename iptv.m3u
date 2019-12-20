@@ -146,43 +146,93 @@ http://103.121.36.238:8081/live/zeebanglacinema-33/chunks.m3u8?&wmsAuthSign=c2Vy
 
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/45594_dis-babgla-2.jpg" group-title="BAN", Discovery Bangla
 http://103.81.104.222/live/discovery-ch/index.m3u8
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/81097_discovery1.jpg" group-title="IND", Discovery Hindi
+http://streamer.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
+
 
 
 #EXTINF:-1, tvg-logo="http://robiscreen.com/yt_th_mq/4-ZG-HIyn3Q_mq.jpg" group-title="BAN DRAMA", চার বিবিই চমৎকার
 http://vod.robitvplus.com/vod/vod/N/U/NUhh58vCzLg/NUhh58vCzLg_480p.m3u8
 
-#EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/47177_9x-Tashan-1.jpg" group-title="IND",9X TASHAN
 http://pockettv.xyz/api/zee.m3u8?c=9xtashan
-#EXTINF:-1, group-title="IND", ZEE TV
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/29715_9xo-1.jpg" group-title="IND",9XO
+http://pockettv.xyz/api/zee.m3u8?c=9xo
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/28877_9x-jalwa-1.jpg" group-title="IND",9x Jalwa
+http://pockettv.xyz/api/zee.m3u8?c=9xjalwa
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/74944_9xm-1.jpg" group-title="IND", 9XM
+http://pockettv.xyz/api/zee.m3u8?c=9xm
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/1186_Zeetv1.jpg" group-title="IND", ZEE TV
 http://pockettv.xyz/api/zee.m3u8?c=zeetvsd
-#EXTINF:-1, group-title="IND", ZEE TV HD
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/1186_Zeetv1.jpg" group-title="IND", ZEE TV HD
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
-#EXTINF:-1, group-title="IND",ZEE NEWS
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/29004_zee-news-1.jpg"group-title="IND",ZEE NEWS
 http://pockettv.xyz/api/zee.m3u8?c=zeenews
-#EXTINF:-1, group-title="IND",AND PICTURES HD
-http://pockettv.xyz/api/zee.m3u8?c=andpicshd
-#EXTINF:-1, group-title="IND", ZEE ACTION
-http://pockettv.xyz/api/zee.m3u8?c=action
-#EXTINF:-1, group-title="IND", ZEE BOLLYWOOD
-http://pockettv.xyz/api/zee.m3u8?c=classic
-#EXTINF:-1, group-title="IND",AND PICTURES
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/89962_Zee-Cafe-1.jpg"group-title="IND",Zee Café
+http://pockettv.xyz/api/zee.m3u8?c=zeecafesd
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/59306_&Pictures-1.jpg" group-title="IND",AND PICTURES
 http://pockettv.xyz/api/zee.m3u8?c=andpicssd
-#EXTINF:-1 group-title="IND", And TV
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/97896_picture-HD.jpg" group-title="IND",AND PICTURES HD
+http://pockettv.xyz/api/zee.m3u8?c=andpicshd
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/46272_zee-action-1.jpg" group-title="IND", ZEE ACTION
+http://pockettv.xyz/api/zee.m3u8?c=action
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/77051_zee-boll-1.jpg" group-title="IND", ZEE BOLLYWOOD
+http://pockettv.xyz/api/zee.m3u8?c=classic
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/36523_bollywood-hd-2.jpg" group-title="IND", BOLLYWOOD HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/75206_&tvsd1.jpg" group-title="IND", And TV
 http://pockettv.xyz/api/zee.m3u8?c=andtvsd
-#EXTINF:-1 group-title="IND", And TV HD
+#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/34599_&tvhd.jpg" group-title="IND", And TV HD
 http://pockettv.xyz/api/zee.m3u8?c=andtvhd
-#EXTINF:-1,group-title="IND",ZEE AFLAM
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/83992_zee-aflam-1.jpg" group-title="IND",ZEE AFLAM
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/34485_Zee-Bussiness-1.jpg" group-title="IND", Zee Business
+http://pockettv.xyz/api/zee.m3u8?c=zeebusiness
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/1258_Zee-Marathi-HD-1.jpg" group-title="IND", Zee Marathi HD
+http://pockettv.xyz/api/zee.m3u8?c=zmarathihd
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/88582_Zing1.jpg" group-title="IND", Zing
+http://livecdnh1.tvanywhere.ae/hls/zing/04.m3u8
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/56677_mbc-bolli-1.jpg" group-title="IND", MBC Bollywood
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 
-#EXTINF:-1,group-title="IND", &Flix HD
-https://akamai.anytv.live/StarBharatHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="IND", MBC BOLLYWOOD
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
-#EXTINF:-1, group-title="IND", B4U PLUS
+
+
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/13586_zee-cenema.jpg" group-title="IND", group-title="IND", ZEE CINEMA
+http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/13586_zee-cenema.jpg" group-title="IND", group-title="IND", ZEE CINEMA HD
+http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/11401_ZeeAnmolCinema1.jpg" group-title="IND", group-title="IND", ZEE ANMOL CINEMA
+http://pockettv.xyz/api/zee.m3u8?c=zanmolcnm
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/35579_and-flix-hd-logo-1.jpg" group-title="IND", group-title="IND", &Flix SD
+http://pockettv.xyz/api/zee.m3u8?c=andflix
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/35579_and-flix-hd-logo-1.jpg" group-title="IND", group-title="IND", &Flix HD
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/46096_b4u-movies-1.jpg" group-title="IND", group-title="IND", B4U Movies
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/79769_b4u-music-1.jpg" group-title="IND", group-title="IND", B4U B4U Music
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/76849_b4u-plus-2.jpg" group-title="IND", group-title="IND", B4U PLUS
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/29870_b4u-Kodak1.jpg" group-title="IND", group-title="IND", B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/75087_sony-pics.jpg" group-title="IND", SONY Pics HD
+http://akamai.anytv.live/SonyPicsHD/mono.m3u8
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/17262_star-plus-2.jpg" group-title="IND", Star Plus
+http://fr-c.movply.stream/hls/Star_Plus.m3u8
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/25616_color-rishtey.jpg" group-title="IND", Colors Cineplex
+http://jprdigitalott.com:80/media/RishteyCineplex.mpd?hdnts=st=1569528079~exp=1569529079~acl=/*~hmac=ef1f6d2a4055be4bc28974669526333821315ddf2ffbd76ca782c107c5c21ab3
+
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/57749_boogle-bollywood-2.jpg" group-title="IND", Boogle Bollywood
+http://95erywm2dwn4-hls-live.wmncdn.net/1173/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/30167_SHEMAROO-2.jpg" group-title="IND", Shemaroo Hindi
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+
 #EXTINF:-1, group-title="IND", CINE MOVIES
 http://cdn.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
-
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/18718_SET_India-2.jpg" group-title="IND", Sony Entertainment
+http://103.121.36.238:8081/live/sony-40/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDEwOjQxOjMxIEFNJmhhc2hfdmFsdWU9dXpxNzY3Sm9kUHNRaXJDbkhVWUhUQT09JnZhbGlkbWludXRlcz0xODA=
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/94570_housefull-2.jpg" group-title="IND", Housefull Action
+http://27.147.156.14:1935/Housefull-Action/Housefull-Action.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="IND", Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/index.m3u8
@@ -208,4 +258,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="http://fpwg.info/wp-content/uploads/2015/07/National-Geographic-logo-640x380.png" group-title="Documentary",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+
+#EXTINF:-1, group-title="SPORTS", DSPORTS
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
 

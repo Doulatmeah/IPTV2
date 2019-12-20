@@ -152,7 +152,7 @@ http://103.81.104.222/live/discovery-ch/index.m3u8
 http://vod.robitvplus.com/vod/vod/N/U/NUhh58vCzLg/NUhh58vCzLg_480p.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://image3.mouthshut.com/images/imagesp/925739638s.png" group-title="IND", Sony Max 2
+#EXTINF:-1, tvg-logo="https://www.bizasialive.com/wp-content/uploads/2016/11/sonymax20017.jpg" group-title="IND", Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sony_MAX_logo.svg/1200px-Sony_MAX_logo.svg.png" group-title="IND", Sony Max
 http://103.81.104.222/live/sonymaxx/index.m3u8

@@ -144,7 +144,7 @@ http://fr-c.movply.stream/hls/Zee_Chinaman.m3u8
 #EXTINF:-1, tvg-logo="https://yt3.ggpht.com/a/AGF-l795EeVB3ouD9HRRNVEXv0QZiPhBMqS7XYweog=s900-c-k-c0xffffffff-no-rj-mo" group-title="BAN", ZEE BANGLA CINEMA
 http://103.121.36.238:8081/live/zeebanglacinema-33/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAxOSAxMTo0MjoxNCBBTSZoYXNoX3ZhbHVlPUdESGNWZWYvdXJyWEJoWkl5d0JkM3c9PSZ2YWxpZG1pbnV0ZXM9ODA=
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="BAN", Discovery Bangla
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/45594_dis-babgla-2.jpg" group-title="BAN", Discovery Bangla
 http://103.81.104.222/live/discovery-ch/index.m3u8
 
 

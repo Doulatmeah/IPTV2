@@ -203,23 +203,23 @@ http://pockettv.xyz/api/zee.m3u8?c=ddnews
 #EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/88169_DD-india-1.jpg" group-title="IND", DD India
 http://pockettv.xyz/api/zee.m3u8?c=ddindia
 
-#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/13586_zee-cenema.jpg" group-title="IND", group-title="IND", ZEE CINEMA
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/13586_zee-cenema.jpg" group-title="IND",ZEE CINEMA
 http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
-#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/13586_zee-cenema.jpg" group-title="IND", group-title="IND", ZEE CINEMA HD
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/13586_zee-cenema.jpg" group-title="IND",ZEE CINEMA HD
 http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
-#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/11401_ZeeAnmolCinema1.jpg" group-title="IND", group-title="IND", ZEE ANMOL CINEMA
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/11401_ZeeAnmolCinema1.jpg" group-title="IND",ZEE ANMOL CINEMA
 http://pockettv.xyz/api/zee.m3u8?c=zanmolcnm
-#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/35579_and-flix-hd-logo-1.jpg" group-title="IND", group-title="IND", &Flix SD
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/35579_and-flix-hd-logo-1.jpg" group-title="IND",&Flix SD
 http://pockettv.xyz/api/zee.m3u8?c=andflix
-#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/35579_and-flix-hd-logo-1.jpg" group-title="IND", group-title="IND", &Flix HD
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/35579_and-flix-hd-logo-1.jpg" group-title="IND",&Flix HD
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
-#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/46096_b4u-movies-1.jpg" group-title="IND", group-title="IND", B4U Movies
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/46096_b4u-movies-1.jpg" group-title="IND",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
-#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/79769_b4u-music-1.jpg" group-title="IND", group-title="IND", B4U B4U Music
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/79769_b4u-music-1.jpg" group-title="IND",B4U B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
-#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/76849_b4u-plus-2.jpg" group-title="IND", group-title="IND", B4U PLUS
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/76849_b4u-plus-2.jpg" group-title="IND", B4U PLUS
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/29870_b4u-Kodak1.jpg" group-title="IND", group-title="IND", B4U Kadak
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/29870_b4u-Kodak1.jpg" group-title="IND",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/75087_sony-pics.jpg" group-title="IND", SONY Pics HD
 http://akamai.anytv.live/SonyPicsHD/mono.m3u8

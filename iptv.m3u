@@ -215,17 +215,17 @@ http://pockettv.xyz/api/zee.m3u8?c=andflix
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 #EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/46096_b4u-movies-1.jpg" group-title="IND",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
-#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/79769_b4u-music-1.jpg" group-title="IND",B4U B4U Music
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/originals/df/3a/71/df3a7160b53013740671747cdfe08d17.jpg" group-title="IND",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
-#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/76849_b4u-plus-2.jpg" group-title="IND", B4U PLUS
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/994889981847105536/2IFtV2Cf_400x400.jpg" group-title="IND", B4U PLUS
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/29870_b4u-Kodak1.jpg" group-title="IND",B4U Kadak
+#EXTINF:-1,tvg-logo="https://indeltv.in/wp-content/uploads/2019/11/Channel_B4ukadak.png" group-title="IND",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/75087_sony-pics.jpg" group-title="IND", SONY Pics HD
 http://akamai.anytv.live/SonyPicsHD/mono.m3u8
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/17262_star-plus-2.jpg" group-title="IND", Star Plus
 http://fr-c.movply.stream/hls/Star_Plus.m3u8
-#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/25616_color-rishtey.jpg" group-title="IND", Colors Cineplex
+#EXTINF:-1,tvg-logo="http://imagesdishtv.whatsonindia.com/WhatsOnTV/images/channellogo/132x99/5Pcz2Kqm.png" group-title="IND", Colors Cineplex
 http://jprdigitalott.com:80/media/RishteyCineplex.mpd?hdnts=st=1569528079~exp=1569529079~acl=/*~hmac=ef1f6d2a4055be4bc28974669526333821315ddf2ffbd76ca782c107c5c21ab3
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/57749_boogle-bollywood-2.jpg" group-title="IND", Boogle Bollywood
 http://95erywm2dwn4-hls-live.wmncdn.net/1173/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/tracks-v1a1/index.m3u8

@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BAN", Gazi TV
-http://103.81.104.222/live/GTV/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BAN", GTV
 https://triangle.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BAN", Gazi TV
 http://fr-c.movply.stream/hls/gazi-tv.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BAN", Gazi TV
+http://103.81.104.222/live/GTV/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png" group-title="BAN", ATN Bangla
 http://live.robitvplus.com/hls/f_3zN8Nt258a-0PrVVZQ-g/1576753842/atn_bangla_hi/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png" group-title="BAN", ATN Bangla 2 

@@ -252,6 +252,8 @@ http://fr-c.movply.stream/hls/Star_Plus.m3u8
 https://triangle.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Star_Gold_Logo.jpg/220px-Star_Gold_Logo.jpg" group-title="IND",Star Gold
 http://103.118.76.229:1935/tvprogram/STAR-GOLD/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Star_Gold_Logo.jpg/220px-Star_Gold_Logo.jpg" group-title="IND",Star Gold 2
+http://www.sansat.net:25461/live/023084396716/fHELEbn6Rn2obkI/43841.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Star_Gold_Logo.jpg/220px-Star_Gold_Logo.jpg" group-title="IND",Star Gold UK
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Star_Gold_Logo.jpg/220px-Star_Gold_Logo.jpg" group-title="IND",Star Gold ME
@@ -401,8 +403,7 @@ http://fr-c.movply.stream/hls/star-sports-select-2-hd.m3u8
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
 #EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-9wc9AExnHbc/WSYCGE9DHRI/AAAAAAAAGUg/5NEvF6mTojYWI_d5GIz8ZC8DDjWCk_zWgCLcB/s320/ptv_sports_pk.png" group-title="SPORTS",PTV Sports
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-9wc9AExnHbc/WSYCGE9DHRI/AAAAAAAAGUg/5NEvF6mTojYWI_d5GIz8ZC8DDjWCk_zWgCLcB/s320/ptv_sports_pk.png" group-title="SPORTS",PTV Sports
-http://www.sansat.net:25461/live/023084396716/fHELEbn6Rn2obkI/43841.m3u8
+
 #EXTINF:-1, tvg-logo="http://bdsportslive.xyz/wp-content/uploads/2019/06/starspoerts1.jpg" group-title="SPORTS",Star Sports 1
 http://163.172.29.246:8081/globe/starsports1/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="SPORTS",BT Sport 1

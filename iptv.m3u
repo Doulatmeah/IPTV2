@@ -328,3 +328,22 @@ http://livecdnh3.tvanywhere.ae/hls/rotmas/03.m3u8
 http://livecdnh3.tvanywhere.ae/hls/rotkhal/03.m3u8
 #EXTINF:-1, tvg-logo="http://www.telearabiapro.tv/wp-content/uploads/2018/09/Rotana-Clip-logo-640x506.jpg" group-title="Arabic",Rotana clip
 http://livecdnh3.tvanywhere.ae/hls/rotclip/03.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Arabic",DMC DRAMA
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
+#EXTINF:-1, tvg-logo="" group-title="Arabic",ALNAHAR
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd/03.m3u8
+#EXTINF:-1, tvg-logo="" group-title="Arabic",ALNAHAR DRAMA
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/03.m3u8
+#EXTINF:-1, tvg-logo="" group-title="Arabic",AL HAYAT
+http://livecdnh2.tvanywhere.ae/hls/hayat/03.m3u8
+#EXTINF:-1, tvg-logo="" group-title="Arabic",CBC DRAMA
+http://livecdnh2.tvanywhere.ae/hls/cbc_drama/03.m3u8
+#EXTINF:-1, tvg-logo="" group-title="Arabic",AL KAHERA O AL NAS
+http://livecdnh2.tvanywhere.ae/hls/kahera_nas/03.m3u8
+#EXTINF:-1, tvg-logo="" group-title="Arabic",Osn star world
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+#EXTINF:-1, tvg-logo="" group-title="Arabic",Osn star movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:-1, tvg-logo="" group-title="Arabic",cinema 1 sd
+http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8

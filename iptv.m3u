@@ -273,6 +273,15 @@ http://103.121.36.238:8081/live/animalplanet-13/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/40493_dis-seience-1.jpg" group-title="Documentary",Discovery Science
 http://streamer.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
 
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/nz-nat-geo-people-5797.jpg" group-title="Documentary",Nat geo people HD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/nz-nat-geo-people-5797.jpg" group-title="Documentary",Nat geo people SD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png"Nat geo wild SD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png"Nat geo wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/14261_sky-net-sports-2.jpg" group-title="SPORTS", Sky Net Sports
 http://fr-c.movply.stream/hls/star-sports-select-2-hd.m3u8
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/59661_dsport-1.jpg" group-title="SPORTS", DSPORTS

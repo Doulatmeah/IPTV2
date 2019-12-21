@@ -283,39 +283,39 @@ https://triangle.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/95732_cartoon-1.jpg" group-title="KIDS", CN Cartoon
 http://fr-c.movply.stream/hls/Carton_Network.m3u8
 
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/95732_cartoon-1.jpg" group-title="Arabic",MBC1
+#EXTINF:-1, tvg-logo="http://lebanesechannels.com/sites/default/files/mbc_ae_1_hd_plus3.png" group-title="Arabic",MBC1
 http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/95732_cartoon-1.jpg" group-title="Arabic",MBC 2
+#EXTINF:-1, tvg-logo="https://i7.pngguru.com/preview/370/86/409/mbc2-logo-film-cuevana-others-thumbnail.jpg" group-title="Arabic",MBC 2
 http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/95732_cartoon-1.jpg" group-title="Arabic",MBC 3
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg" group-title="Arabic",MBC 3
 http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/95732_cartoon-1.jpg" group-title="Arabic",MBC 4
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="Arabic",MBC 4
 http://livecdnh3.tvanywhere.ae/hls/mbc4/03.m3u8
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/95732_cartoon-1.jpg" group-title="Arabic",MBC MAX
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/MBC_Max_2010_logo.svg/1200px-MBC_Max_2010_logo.svg.png" group-title="Arabic",MBC MAX
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/95732_cartoon-1.jpg" group-title="Arabic",MBC ACTION
+#EXTINF:-1, tvg-logo="http://livetve.com/video-elements/files/2009/10/MBC_Action.jpg" group-title="Arabic",MBC ACTION
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/95732_cartoon-1.jpg" group-title="Arabic",MBC MASR
+#EXTINF:-1, tvg-logo="http://www.telearabiapro.tv/wp-content/uploads/2018/09/mbc-2.png" group-title="Arabic",MBC MASR
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/03.m3u8
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/95732_cartoon-1.jpg" group-title="Arabic",MBC DRAMA
+#EXTINF:-1, tvg-logo="https://cdn.imgbin.com/4/11/4/imgbin-television-channel-mbc-drama-mbc-plus-drama-bollywood-movies-2017-est-vmgS4Xjb2VxDMqqXNBx0vYFGm.jpg" group-title="Arabic",MBC DRAMA
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/03.m3u8
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/95732_cartoon-1.jpg" group-title="Arabic",LBC SAT
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/911630766873903104/_oMtDVJV_400x400.jpg" group-title="Arabic",LBC SAT
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/03.m3u8
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/95732_cartoon-1.jpg" group-title="Arabic",Aljadeed
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG" group-title="Arabic",Al jadeed
 http://livecdnh3.tvanywhere.ae/hls/jadeed/03.m3u8
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/95732_cartoon-1.jpg" group-title="Arabic",OTV
+#EXTINF:-1, tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lb-otv-lebanon-9832.jpg" group-title="Arabic",OTV
 http://livecdnh2.tvanywhere.ae/hls/otv_leb/03.m3u8
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/95732_cartoon-1.jpg" group-title="Arabic",FUTURE
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Future_TV_logo.png" group-title="Arabic",FUTURE
 http://livecdnh2.tvanywhere.ae/hls/future/03.m3u8
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/95732_cartoon-1.jpg" group-title="Arabic",Rotana classic
+#EXTINF:-1, tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_535.png" group-title="Arabic",Rotana classic
 http://livecdnh3.tvanywhere.ae/hls/rotclassic/03.m3u8
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/95732_cartoon-1.jpg" group-title="Arabic",Rotana aflam
+#EXTINF:-1, tvg-logo="https://static.filmon.com/assets/channels/2618/extra_big_logo.png" group-title="Arabic",Rotana aflam
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/03.m3u8
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/95732_cartoon-1.jpg" group-title="Arabic",Rotana cinema
+#EXTINF:-1, tvg-logo="http://www.telearabiapro.tv/wp-content/uploads/2018/09/rotana-1.png" group-title="Arabic",Rotana cinema
 http://livecdnh3.tvanywhere.ae/hls/rotcinema/03.m3u8
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/95732_cartoon-1.jpg" group-title="Arabic",Rotana masrya drama
+#EXTINF:-1, tvg-logo="https://image.mysatgo.com/resize-width/400//content/2/Cy/53/Thumbnail.png?v=636557991860090901" group-title="Arabic",Rotana masriya drama
 http://livecdnh3.tvanywhere.ae/hls/rotmas/03.m3u8
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/95732_cartoon-1.jpg" group-title="Arabic",Rotana khalijiah
+#EXTINF:-1, tvg-logo="https://static.filmon.com/assets/channels/2606/extra_big_logo.png" group-title="Arabic",Rotana khalijiah
 http://livecdnh3.tvanywhere.ae/hls/rotkhal/03.m3u8
-#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/95732_cartoon-1.jpg" group-title="Arabic",Rotana clip
+#EXTINF:-1, tvg-logo="http://www.telearabiapro.tv/wp-content/uploads/2018/09/Rotana-Clip-logo-640x506.jpg" group-title="Arabic",Rotana clip
 http://livecdnh3.tvanywhere.ae/hls/rotclip/03.m3u8

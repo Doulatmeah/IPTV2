@@ -280,12 +280,10 @@ http://95erywm2dwn4-hls-live.wmncdn.net/1173/booglebollywood/774e3ea9f3fa9bcdac4
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1,tvg-logo="https://media.cdnandroid.com/5d/93/03/03/d9/imagen-imdb-cine-tv-0big.jpg"group-title="IND",CINE MOVIES
 http://cdn.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
-
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjiIln7_u3qSDWaSAS_yPcpmSMjjbf6DG1LFHdPeVb2Vp8y6R&s"group-title="IND",P TUNE
 http://streamer.multitvsolution.in/live/PTunes-d/p4.m3u8
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/a/AGF-l7-pNlrmiYqW0dC7LLQz9Y4dC86lk3gh9d72pA=s900-c-k-c0xffffffff-no-rj-mo"group-title="IND",P TUNE PLUS
 http://streamer.multitvsolution.in/live/PtunesPlus-d/p3.m3u8
-
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/18718_SET_India-2.jpg" group-title="IND", Sony Entertainment
 http://103.121.36.238:8081/live/sony-40/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDEwOjQxOjMxIEFNJmhhc2hfdmFsdWU9dXpxNzY3Sm9kUHNRaXJDbkhVWUhUQT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/94570_housefull-2.jpg" group-title="IND", Housefull Action
@@ -306,6 +304,8 @@ http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
 http://streamer.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/2246877329/RIT-ETC.gif" group-title="IND",ETC
 http://pockettv.xyz/api/zee.m3u8?c=etc
+#EXTINF:-1,tvg-logo="https://wowmusic.de/media/fb_logo.jpg" group-title="HINDI",WOW MUSIC
+http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(01)/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeesalaam/list/170x170/zeesalaam.png" group-title="PAK",Zee Salaam
 http://pockettv.xyz/api/zee.m3u8?c=zeesalaam

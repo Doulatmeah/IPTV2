@@ -95,6 +95,8 @@ https://triangle.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 https://triangle.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="BAN", CHANEL I
 https://triangle.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="BAN", CHANEL I HD
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1, tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="BAN", Channel 24 HD
 https://triangle.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1280px-Channel9_bd.svg.png" group-title="BAN", Chanel 9 HD
@@ -255,12 +257,53 @@ http://103.81.104.222/live/sonymaxx/index.m3u8
 http://216.144.250.174/Sony_MaX_HD/index.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/Sony_Max_HD.jpg" group-title="IND",Sony Max HD
 http://58.84.34.35:8090/channel005/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="IND",Manoranjan
 http://streamer.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8
 
+#EXTINF:-1, tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeesalaam/list/170x170/zeesalaam.png" group-title="PAK",Zee Salaam
+http://pockettv.xyz/api/zee.m3u8?c=zeesalaam
+#EXTINF:-1, tvg-logo="http://www.islambox.com/Images/Products/Channels/mainlogo/Peace-Urdu-tv.png" group-title="PAK",Peace TV Urdu
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SDq/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/9c/33/ff/9c33ffd8709266ba13b4d0e964584abc.jpg" group-title="PAK",Hum Sitarey
 http://live.robitvplus.com/hls/bem-7WZcbU3kidV274G6Uw/1576769852/hum_sitarey_hi/index.m3u8
+#EXTINF:-1, tvg-logo="http://a-plus.tv/wp-content/uploads/2019/02/logo_aplus.png" group-title="PAK",Aplus TV
+http://stream.tapmad.com:1935/pitvlive2/aplus3/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAK",ARY Digital
+http://158.69.229.29:8081/digital_abr/streamabr/digital/livestream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/ARY_Musik_logo.png/220px-ARY_Musik_logo.png" group-title="PAK",ARY Musik
+http://27.147.156.14:1935/ARY-Music/ARY-Music.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://en.prothomalo.com/contents/cache/images/350x0x1/uploads/media/2014/05/20/537b7c28207c5-Geo-TV-network-logo.jpg" group-title="PAK",Geo News
+http://95.211.211.168/live/geonews0011/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://aapnews.pk/wp-content/uploads/2019/02/AAP-LOGO2.png" group-title="PAK",Aap News
+http://95.211.211.168/live/aaptvhd0250/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.humnews.pk/wp-content/uploads/2018/05/FINAL-FINAL-LOGO-open.png" group-title="PAK",Hum News
+http://95.211.211.168/live/humnews0189/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg" group-title="PAK",Dunya News
+http://95.211.211.168/live/dunyanews0013/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/92_News_HD_Plus_logo.png/190px-92_News_HD_Plus_logo.png" group-title="PAK",92 News HD
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/92_News_HD_Plus_logo.png/190px-92_News_HD_Plus_logo.png" group-title="PAK",92 News HD
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.tv-dramas.com/wp-content/uploads/2019/01/samaa-tv-live.jpg" group-title="PAK",Samaa
+http://stream.tapmad.com:1935/pitvlive2/samaanews3/playlist.m3u8?
+#EXTINF:-1, tvg-logo="http://mediabites.com.pk/wp-content/uploads/2019/07/52474377_10156630773900528_2722778655984975872_n.png" group-title="PAK",Express News
+http://stream.tapmad.com:1935/pitvlive2/expressnews3/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="PAK",HUM TV HD
+http://95.211.211.168/live/humtv0066/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/12/ARY-Family.png" group-title="PAK",ARY Family
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://en.prothomalo.com/contents/cache/images/350x0x1/uploads/media/2014/05/20/537b7c28207c5-Geo-TV-network-logo.jpg" group-title="PAK",Geo TV
+http://stream1.jeem.tv/geo/geoentertainment_abr/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://smartsolutionpteltd.com/tv/images/77113_atv.jpg" group-title="PAK",ATV
+http://stream.tapmad.com:1935/pitvlive2/atv3/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://smartsolutionpteltd.com/tv/images/5407_express-1.jpg" group-title="PAK",Express Entertainment
+http://stream.tapmad.com:1935/pitvlive2/express3/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Unramed.png/220px-Unramed.png" group-title="PAK",TV One Pakistan
+http://stream.tapmad.com:1935/pitvlive2/tvone3/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://smartsolutionpteltd.com/tv/images/35492_prime-canada-1.jpg" group-title="PAK",Prime Canada
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1, tvg-logo="http://www.hyder.tv/wp-content/uploads/2019/08/Logo_HYDER-TV_high-res_013.png" group-title="PAK",Hyder Tv
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="http://db.radioline.fr/pictures/radio_05461441af82e70f5c4bf24dd3961b18/logo200.jpg" group-title="ENG",DW
 http://live.robitvplus.com/hls/oIapXQBShlJHdf79ONmYEQ/1576769858/dw_hi/index.m3u8

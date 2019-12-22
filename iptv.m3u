@@ -4,7 +4,7 @@ http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/73974_btv.jpg" group-title="BAN", BTV World
 http://live.robitvplus.com/hls/9T0YCvdR1aZUFLvs-XLbqw/1576769798/btv_world_hi/index.m3u8
 #EXTINF:-1, tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x91288" group-title="BAN", BTV CTG
-http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSAzOjAzOjU0IFBNJmhhc2hfdmFsdWU9NUJPNVpZZDM2MExBQ2lVK3ZKaFlGdz09JnZhbGlkbWludXRlcz02MCZpZD0wNg==
+http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSAzOjAzOjU0IFBNJmhhc2hfdmFsdWU9NUJPNVpZZDM
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="BAN", Asian TV
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSAzOjAzOjU0IFBNJmhhc2hfdmFsdWU9NUJPNVpZZDM2MExBQ2lVK3ZKaFlGdz09JnZhbGlkbWludXRlcz02MCZpZD0wNg==
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="BAN", Asian TV 2
@@ -19,6 +19,8 @@ http://103.81.104.222/live/GTV/index.m3u8
 http://live.robitvplus.com/hls/R_IQrjt6LDwF4F1ZAW8P4w/1576769829/independent_tv_hi/index.m3u8
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/68005_indipendent.jpg" group-title="BAN", INDEPENDENT TV
 https://triangle.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+#EXTINF:-1, tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x91288" group-title="BAN", ATN Bangla
+http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSAzOjAzOjU0IFBNJmhhc2hfdmFsdWU9NUJPNVpZZDM2MExBQ2lVK3ZKaFlGdz09JnZhbGlkbWludXRlcz02MCZpZD0wNg==
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png" group-title="BAN", ATN Bangla
 http://live.robitvplus.com/hls/f_3zN8Nt258a-0PrVVZQ-g/1576753842/atn_bangla_hi/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png" group-title="BAN", ATN Bangla 2 

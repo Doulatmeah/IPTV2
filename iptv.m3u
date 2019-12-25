@@ -506,15 +506,15 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/si/DiscoveryScience.si.png" group-title="Documentary",Discovery Science
 https://live.dufree4k.net/02_MTV_Asia_720p/chunklist.m3u8/02_MYSCIHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="Sports",Olympic Channel
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="SPORTS",Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/14261_sky-net-sports-2.jpg" group-title="SPORTS",Sky Net Sports
 http://fr-c.movply.stream/hls/star-sports-select-2-hd.m3u8
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/59661_dsport-1.jpg" group-title="SPORTS",DSPORTS
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
-#EXTINF:-1 tvg-logo="http://www.dsport.in/wp-content/uploads/2018/10/NewDSport_White.png" group-title="Sports",Discovery Sports
+#EXTINF:-1 tvg-logo="http://www.dsport.in/wp-content/uploads/2018/10/NewDSport_White.png" group-title="SPORTS",Discovery Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="Sports",Sony Six
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="SPORTS",Sony Six
 http://fr-c.movply.stream/hls/sony-six-hd.m3u8
 #EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-9wc9AExnHbc/WSYCGE9DHRI/AAAAAAAAGUg/5NEvF6mTojYWI_d5GIz8ZC8DDjWCk_zWgCLcB/s320/ptv_sports_pk.png" group-title="SPORTS",PTV Sports
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
@@ -526,11 +526,11 @@ http://163.172.29.246:8081/globe/starsports1/playlist.m3u8
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="SPORTS",BT Sport 2
 http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
-#EXTINF:-1 tvg-logo="https://mysports.ch/portal/assets/images/logos/mysports-logo-inverse.png" group-title="Sports",MySports 1
+#EXTINF:-1 tvg-logo="https://mysports.ch/portal/assets/images/logos/mysports-logo-inverse.png" group-title="SPORTS",MySports 1
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Entertainment",Red Bull TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="SPORTS",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/Stadium.us.png" group-title="Sports",Stadium
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/Stadium.us.png" group-title="SPORTS",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/96076_nick-2.jpg" group-title="KIDS",Nick TV

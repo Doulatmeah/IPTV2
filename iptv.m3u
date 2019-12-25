@@ -654,14 +654,6 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.assirat.tv/uploaded/HADIS.JPG" group-title="Iran",Al-Sirat
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/caltex.jpg" group-title="Iran",Caltex Music
-http://vid1.caltexmusic.com/hls/caltextv.m3u8
-#EXTINF:-1  tvg-logo="http://hopecity.com.co/wp-content/uploads/2019/07/ghm.png" group-title="Iran",GHM TV
-https://j7md5gvqyrwv-hls-live.5centscdn.com/glorygroup/7cc920348532e7cc63e15024fe5c1a57.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="http://hopecity.com.co/wp-content/uploads/2019/07/glory.png" group-title="Iran",Glory TV
-https://j7md5gvqyrwv-hls-live.5centscdn.com/glorygroup/db2545515c456c8ff5d2ba3c474838e3.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="http://hopecity.com.co/wp-content/uploads/2019/07/hopecity.png" group-title="Iran",HopeCity TV
-https://j7md5gvqyrwv-hls-live.5centscdn.com/glorygroup/f452c68e7b76ad89f969273ee3c4b859.sdp/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="http://www.hodhodfarsi.tv/style-index/hodhod-logo.png" group-title="Iran",Hodhod HD
 http://51.158.184.234/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="http://www.hodhodfarsi.tv/style-index/hodhod-logo.png" group-title="Iran",Hodhod
@@ -670,8 +662,6 @@ http://51.158.167.169/hls/stream.m3u8
 http://51.15.44.93/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="http://www.imamreza.tv/img/logo.png" group-title="Iran",Imam Reza World TV
 http://51.15.113.6/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="http://hopecity.com.co/wp-content/uploads/2019/07/lion.png" group-title="Iran",Lion TV
-https://j7md5gvqyrwv-hls-live.5centscdn.com/glorygroup/192292e35fbe73f6d2b8d96bd1b6697d.sdp/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/04/Iran-International-Channel.png" group-title="Iran",Iran International
 https://svs.itworkscdn.net/iinternationallive/iintl.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_Manoto-Rebrand_2018.png/375px-LOGO_Manoto-Rebrand_2018.png" group-title="Iran",Manoto

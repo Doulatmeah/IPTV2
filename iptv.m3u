@@ -15,6 +15,8 @@ http://live.robitvplus.com/hls/3WSew1ON63lK3QWhABoAFA/1576788659/asian_tv_hi/ind
 http://pockettv.xyz/api/zee.m3u8?c=zeebanglahd
 #EXTINF:-1, tvg-logo="https://yt3.ggpht.com/a/AGF-l79lhwk0bOP-4fHFu0H2nfiogqCL57RLjdV7rQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="BAN",Zee Bangla SD
 http://pockettv.xyz/api/zee.m3u8?c=zeebanglasd
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/a/AGF-l795EeVB3ouD9HRRNVEXv0QZiPhBMqS7XYweog=s900-c-k-c0xffffffff-no-rj-mo" group-title="BAN",ZEE BANGLA CINEMA
+http://103.121.36.238:8081/live/zeebanglacinema-33/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAxOSAxMTo0MjoxNCBBTSZoYXNoX3ZhbHVlPUdESGNWZWYvdXJyWEJoWkl5d0JkM3c9PSZ2YWxpZG1pbnV0ZXM9ODA=
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="BAN", Sony Aath
 http://fr-c.movply.stream/hls/Zee_Chinaman.m3u8
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/87715_in-aakaash2.jpg" group-title="BAN",Aakash Aath
@@ -226,9 +228,6 @@ http://27.147.156.14:1935/BanglaTalk/banglatalk.stream/playlist.m3u8
 https://vd1.wmspanel.com/video_demo/stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/50696_dd-bangla-1.jpg" group-title="BAN",DD Bangla
 http://pockettv.xyz/api/zee.m3u8?c=ddbangla
-#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/a/AGF-l795EeVB3ouD9HRRNVEXv0QZiPhBMqS7XYweog=s900-c-k-c0xffffffff-no-rj-mo" group-title="BAN",ZEE BANGLA CINEMA
-http://103.121.36.238:8081/live/zeebanglacinema-33/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAxOSAxMTo0MjoxNCBBTSZoYXNoX3ZhbHVlPUdESGNWZWYvdXJyWEJoWkl5d0JkM3c9PSZ2YWxpZG1pbnV0ZXM9ODA=
-
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/45594_dis-babgla-2.jpg" group-title="BAN",Discovery Bangla
 http://103.81.104.222/live/discovery-ch/index.m3u8
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/81097_discovery1.jpg" group-title="IND",Discovery Hindi
@@ -383,9 +382,8 @@ http://58.84.34.35:8090/channel005/tracks-v1a1/mono.m3u8
 http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="IND",Manoranjan
 http://streamer.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8
-#EXTINF:-1,tvg-logo="https://wowmusic.de/media/fb_logo.jpg" group-title="IND"WOW MUSIC
+#EXTINF:-1, tvg-logo="https://wowmusic.de/media/fb_logo.jpg" group-title="IND",WOW MUSIC
 http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(01)/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeesalaam/list/170x170/zeesalaam.png" group-title="PAK",Zee Salaam
 http://pockettv.xyz/api/zee.m3u8?c=zeesalaam
 #EXTINF:-1, tvg-logo="http://www.islambox.com/Images/Products/Channels/mainlogo/Peace-Urdu-tv.png" group-title="PAK",Peace TV Urdu
@@ -483,9 +481,9 @@ http://streamer.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/nz-nat-geo-people-5797.jpg" group-title="Documentary",Nat geo people SD ENGLISH
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png"Nat geo wild SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png"group-title="Documentary",Nat geo wild SD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png"Nat geo wild HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png"group-title="Documentary",Nat geo wild HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/14261_sky-net-sports-2.jpg" group-title="SPORTS",Sky Net Sports

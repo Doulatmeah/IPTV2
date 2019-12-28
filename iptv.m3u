@@ -29,6 +29,8 @@ https://triangle.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 http://fr-c.movply.stream/hls/gazi-tv.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BAN",Gazi TV
 http://103.81.104.222/live/GTV/index.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BAN",Gazi TV
+http://103.118.76.229:1935/tvprogram/GAZI-TV/media_w1909850710_15853.m3u8
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/68005_indipendent.jpg" group-title="BAN",Independent TV
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSAzOjAzOjU0IFBNJmhhc2hfdmFsdWU9NUJPNVpZZDM
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/68005_indipendent.jpg" group-title="BAN",Independent TV 2
@@ -192,6 +194,8 @@ http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/52tv.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSAzOjAzOjU0IFBNJmhhc2hfdmFsdWU9NUJPNVpZZDM
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1280px-Channel9_bd.svg.png" group-title="BAN",Chanel 9 HD
 http://fr-c.movply.stream/hls/channel9-tv.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="BAN",Masranga TV
+http://103.118.76.229:1935/tvprogram/MAASRANGA-MOBILE/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="BAN",Masranga TV HD
 https://akamai.anytv.live/Masranga/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BAN",DEEPTO TV

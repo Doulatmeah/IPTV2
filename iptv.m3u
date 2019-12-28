@@ -484,6 +484,20 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/1200px-STAR_World.svg.png" group-title="ENG",Star World SD
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="ENG",HBO
+http://95.170.215.118/hls/m3u8/HBO.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="ENG",HBO 2
+http://95.170.215.118/hls/m3u8/HBO-2.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="ENG",HBO 3
+http://95.170.215.118/hls/m3u8/HBO-3.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="ENG",Sky movies ACTION
+http://95.170.215.118/hls/m3u8/Sky-MoviesAction.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="ENG",Sky movies PREMIERE
+http://95.170.215.118/hls/m3u8/Sky-MoviesPremie.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="ENG",Sky movies SELECT
+http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="ENG",Sky Cinema Premier
+http://95.170.215.118/hls/m3u8/Sky-MoviesPremie.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/08/rtdocumentary.jpg?x91288" group-title="Documentary",RT Documentary
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSAzOjAzOjU0IFBNJmhhc2hfdmFsdWU9NUJPNVpZZDM
@@ -540,6 +554,85 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/Stadium.us.png" group-title="SPORTS",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",FOX SPORT
+https://tvrealtime.com/live/FOXSPORT1/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",FOX SPORT 2
+https://tvrealtime.com/live/FOXSPORT2/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",FOX SPORT 3
+https://tvrealtime.com/live/FOXSPORT3/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",Sky sport 1
+http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",Sky sport 2
+http://95.170.215.120/hls/m3u8/Sky-Sports-2HD.m3u8
+ 
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",Sky sport 3
+http://95.170.215.120/hls/m3u8/Sky-Sports-3HD.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",Sky sport 4 GOLF
+http://95.170.215.120/hls/m3u8/Sky-Sports-4HD.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",Sky sport hd 5 premiere league
+http://95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",C-more SPORTS
+http://95.170.215.120/hls/m3u8/CMore-Sport.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",CT SPORT
+http://95.170.215.118/hls/m3u8/CT-Sport.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",BT sport Hd 1
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",BT sport Hd 2
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",Eurosport HD 1
+http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",Eurosport HD 2
+http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",Fox sport hd 1
+http://95.170.215.118/hls/m3u8/Fox-Sport-1.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",Bein HD 1
+http://vision-tv.nl:8080/TR-BEINSPORT4K/index.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",Bein HD 1
+http://95.170.215.120/hls/m3u8/BeinSport1.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",Bein HD 2
+http://95.170.215.120/hls/m3u8/BeinSport2.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",BEIN HD 3
+http://95.170.215.120/hls/m3u8/BeinSport3.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",BEIN HD 4
+http://95.170.215.120/hls/m3u8/BeinSport4.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",BEIN HD 5
+http://95.170.215.120/hls/m3u8/BeinSport5.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",BEIN HD 6
+http://95.170.215.120/hls/m3u8/BeinSport6.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",BEIN HD 7
+http://95.170.215.120/hls/m3u8/BeinSport7.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",BEIN HD 8
+http://95.170.215.120/hls/m3u8/BeinSport8.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",BEIN HD 9
+http://95.170.215.120/hls/m3u8/BeinSport9.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",BEIN HD 10
+http://95.170.215.120/hls/m3u8/BeinSport10.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",BEIN HD 11
+http://95.170.215.120/hls/m3u8/BeinSport11.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",BEIN HD 12
+http://95.170.215.120/hls/m3u8/BeinSport12.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",BEIN HD 13
+http://95.170.215.120/hls/m3u8/BeinSport13.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",BEIN HD 14
+http://95.170.215.120/hls/m3u8/BeinSport14.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",BEIN HD 15
+http://95.170.215.120/hls/m3u8/BeinSport15.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",BEIN HD 16
+http://95.170.215.120/hls/m3u8/BeinSport16.m3u8
+ 
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",ESPN
+https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",ESPN 2
+https://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",tennis
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",tennis
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/96076_nick-2.jpg" group-title="KIDS",Nick TV
 https://triangle.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8

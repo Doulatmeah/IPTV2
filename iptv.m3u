@@ -81,6 +81,8 @@ http://103.231.228.229/hls/HDMI13.m3u8
 #EXTINF:-1, tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/05/nakhsiptv-1.jpg?x91288" group-title="BAN",Nokshi TV
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSAzOjAzOjU0IFBNJmhhc2hfdmFsdWU9NUJPNVpZZDM
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BAN",EKATTOR TV
+http://103.121.36.238:8081/live/ekattor-bd/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjAgNDoxOTozMCBQTSZoYXNoX3ZhbHVlPXFiOEJ3Q0ZuOHJkMm1UR01zT2hGTWc9PSZ2YWxpZG1pbnV0ZXM9MTgw
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BAN",EKATTOR TV
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ekattor-8-orgd.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSAzOjAzOjU0IFBNJmhhc2hfdmFsdWU9NUJPNVpZZDM
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BAN",EKATTOR TV
 https://triangle.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8

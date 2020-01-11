@@ -164,6 +164,8 @@ http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://live.robitvplus.com/hls/NIoKfmcuECDCf1uPjYEyBQ/1576769765/sangeet_bangla_hi/index.m3u8
 #EXTINF:-1, tvg-logo="http://www.duronto.tv/global/front//img/kotha.png" group-title="BAN",Duronto TV
 http://27.147.156.14:1935/Durunto-TV/Duronto-TV.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.bdixtv.live/cnlogo/Nagorik.jpg" group-title="BAN",Nagorik TV
+http://103.121.36.238:8081/live/nagorik/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIwIDk6MzI6MzIgQU0maGFzaF92YWx1ZT1ibk4zQ0l1cFU3UkRBN2IxQWtWRmJRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1, tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/06/actiontvbd.jpg" group-title="BAN",BD ACTION TV
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/actiontv.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSAzOjAzOjU0IFBNJmhhc2hfdmFsdWU9NUJPNVpZZDM
 #EXTINF:-1, tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="BAN",JAMUNA TV

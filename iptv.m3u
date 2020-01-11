@@ -16,6 +16,8 @@ http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="BAN",Asian TV 2
 http://live.robitvplus.com/hls/3WSew1ON63lK3QWhABoAFA/1576788659/asian_tv_hi/index.m3u8
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/18515_Zee-Bangla-HD-bn-1.jpg" group-title="BAN",Zee Bangla HD
+http://103.121.36.238:8081/live/zeebanglahd-25/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIwIDk6Mjg6MjggQU0maGFzaF92YWx1ZT10R0hzcjkxWHZWQjRHekhWb215Wkh3PT0mdmFsaWRtaW51dGVzPTgw
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/18515_Zee-Bangla-HD-bn-1.jpg" group-title="BAN",Zee Bangla HD
 http://pockettv.xyz/api/zee.m3u8?c=zeebanglahd
 #EXTINF:-1, tvg-logo="https://yt3.ggpht.com/a/AGF-l79lhwk0bOP-4fHFu0H2nfiogqCL57RLjdV7rQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="BAN",Zee Bangla SD
 http://fr-c.movply.stream/hls/Zee_Bangla.m3u8

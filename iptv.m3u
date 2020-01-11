@@ -293,8 +293,10 @@ http://pockettv.xyz/api/zee.m3u8?c=zeebusiness
 #EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/1258_Zee-Marathi-HD-1.jpg" group-title="IND",Zee Marathi HD
 http://pockettv.xyz/api/zee.m3u8?c=zmarathihd
 #EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/88582_Zing1.jpg" group-title="IND",Zing
-http://pockettv.xyz/api/zee.m3u8?c=zing
+livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
 #EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/88582_Zing1.jpg" group-title="IND",Zing 2
+http://pockettv.xyz/api/zee.m3u8?c=zing
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/88582_Zing1.jpg" group-title="IND",Zing 3
 http://livecdnh1.tvanywhere.ae/hls/zing/04.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Zing%28TVchannel%29Logo.jpg" group-title="IND",Zing USA
 http://pockettv.xyz/api/zee.m3u8?c=zingusa

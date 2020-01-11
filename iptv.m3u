@@ -21,6 +21,8 @@ http://103.121.36.238:8081/live/zeebanglahd-25/chunks.m3u8?wmsAuthSign=c2VydmVyX
 http://pockettv.xyz/api/zee.m3u8?c=zeebanglahd
 #EXTINF:-1, tvg-logo="https://yt3.ggpht.com/a/AGF-l79lhwk0bOP-4fHFu0H2nfiogqCL57RLjdV7rQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="BAN",Zee Bangla SD
 http://fr-c.movply.stream/hls/Zee_Bangla.m3u8
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/a/AGF-l79lhwk0bOP-4fHFu0H2nfiogqCL57RLjdV7rQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="BAN",Zee Bangla SD
+http://livecdnh1.tvanywhere.ae/hls/zee_bangla/03.m3u8
 #EXTINF:-1, tvg-logo="https://yt3.ggpht.com/a/AGF-l795EeVB3ouD9HRRNVEXv0QZiPhBMqS7XYweog=s900-c-k-c0xffffffff-no-rj-mo" group-title="BAN",ZEE BANGLA CINEMA
 http://103.121.36.238:8081/live/zeebanglacinema-33/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAxOSAxMTo0MjoxNCBBTSZoYXNoX3ZhbHVlPUdESGNWZWYvdXJyWEJoWkl5d0JkM3c9PSZ2YWxpZG1pbnV0ZXM9ODA=
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="BAN", Sony Aath

@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://media-eng.dhakatribune.com/uploads/2019/11/bangabandhu-bpl-2019-logo-1574699175495.jpg" group-title="BAN",BPL Live
-http://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
-#EXTINF:-1, tvg-logo="https://media-eng.dhakatribune.com/uploads/2019/11/bangabandhu-bpl-2019-logo-1574699175495.jpg" group-title="BAN",BPL Live
-http://163.172.29.246:8081/globe/newgazi/chunks.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="BAN",BTV
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAxOSA2OjQxOjQ5IFBNJmhhc2hfdmFsdWU9NzJZaFNhSFRUQzBKMHh3YUlwSm9jdz09JnZhbGlkbWludXRlcz02MCZpZD0wNg==oishakhitv-org.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAxOSA2OjQxOjQ5IFBNJmhhc2hfdmFsdWU9NzJZaFNhSFRUQzBKMHh3YUlwSm9jdz09JnZhbGlkbWludXRlcz02MCZpZD0wNg==
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/73974_btv.jpg" group-title="BAN",BTV World

@@ -25,7 +25,7 @@ http://fr-c.movply.stream/hls/gazi-tv.m3u8
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSAzOjAzOjU0IFBNJmhhc2hfdmFsdWU9NUJPNVpZZDM
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/68005_indipendent.jpg" group-title="BAN",Independent TV 2
 http://live.robitvplus.com/hls/R_IQrjt6LDwF4F1ZAW8P4w/1576769829/independent_tv_hi/index.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png" group-title="BAN",ATN Bangla 3
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png" group-title="BAN",ATN Bangla 
 http://live.robitvplus.com/hls/f_3zN8Nt258a-0PrVVZQ-g/1576753842/atn_bangla_hi/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png" group-title="BAN",ATN Bangla 1
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSAzOjAzOjU0IFBNJmhhc2hfdmFsdWU9NUJPNVpZZDM
@@ -71,8 +71,6 @@ http://live.robitvplus.com/hls/nR2Ies0R7nGHM_5wOztF4A/1576769886/boishakhi_tv_hi
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSAzOjAzOjU0IFBNJmhhc2hfdmFsdWU9NUJPNVpZZDM
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="BAN",BANGLA VISION
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSAzOjAzOjU0IFBNJmhhc2hfdmFsdWU9NUJPNVpZZDM2MExBQ2lVK3ZKaFlGdz09JnZhbGlkbWludXRlcz02MCZpZD0wNg==
-#EXTINF:-1, tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" group-title="BAN",Boishakhi TV
-https://tempe.jagobd.com:444/cZVydmVyX7RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDIwIDM6NDA6NTIgUE0maGFzaF92YWx1ZT12VTJEME9PMU1nOEVZdlVlUWhLRlJBPT0mdmFsaWRtaW51dGVzPTUwJmlkPTU=
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="BAN",SATV 2
 http://live.robitvplus.com/hls/SUTUEOI_N78jyJJGkUnKGg/1576769867/sa_tv_hi/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="BAN",SATV
@@ -252,7 +250,7 @@ http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sport",Sony SIX
 https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
-#EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" group-title="Sports",Sony Ten 1
+#EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" group-title="Sport",Sony Ten 1
 https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
 #EXTINF:-1,tvg-logo="https://realvubd.com/wp-content/uploads/2016/04/SONY-TEN2-SD_on-white-1024x819.png" group-title="Sport",Sony Ten 2
 https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
@@ -298,7 +296,7 @@ https://livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="bein 2" tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="Sport",beIN 2
 https://livedoomovie.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="fox sport 1" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title=""Sport",Fox Sport 1 Asia
+#EXTINF:-1 tvg-id="" tvg-name="fox sport 1" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sport",Fox Sport 1 Asia
 https://livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="fox sport 1" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sport",Fox Sport 2 Asia
 https://livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8

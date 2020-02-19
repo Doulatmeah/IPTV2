@@ -144,9 +144,9 @@ https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
 https://streamer-1.toffeelive.com/live/zee_action_720/index.m3u8
 #EXTINF:-1,tvg-logo="https://v3img.voot.com/v3Storage/channel-logos/COLORS_HINDI.png" group-title="IND",Colors
 http://fr-c.movply.stream/hls/Colors.m3u8
-#EXTINF:-1,tvg-logo="https://smartsolutionpteltd.com/tv/images/88582_Zing1.jpg" group-title="IND",Zing
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQA-p6-bCyntB4OYRRvOppNYu3Eyc6Ur2BM17xxCLYgPaMJLrT0" group-title="IND",Zing
 http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
-#EXTINF:-1,tvg-logo="https://smartsolutionpteltd.com/tv/images/88582_Zing1.jpg" group-title="IND",Zing 3
+#EXTINF:-1,tvg-logo="https://smartsolutionpteltd.com/tv/images/88582_Zing1.jpg" group-title="IND",Zing 2
 http://livecdnh1.tvanywhere.ae/hls/zing/04.m3u8
 #EXTINF:-1,tvg-logo="https://bestmediainfo.com/wp-content/uploads/2018/04/9XO_logo_5.jpg" group-title="IND",9XO
 https://streamer-1.toffeelive.com/live/9xo_720/index.m3u8

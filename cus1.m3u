@@ -134,7 +134,7 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-
 #EXTINF:-1, tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/04/azantvs.jpg" group-title="BAN",Azan TV
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSAzOjAzOjU0IFBNJmhhc2hfdmFsdWU9NUJPNVpZZDM
 
-#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/83992_zee-aflam-1.jpg" group-title="IND",ZEE AFLAM
+#EXTINF:-1,tvg-logo="https://smartsolutionpteltd.com/tv/images/83992_zee-aflam-1.jpg" group-title="IND",ZEE AFLAM
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1, tvg-logo="https://globalbanglatv.https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_list/zeecinema_1989975871.png" group-title="BAN",Zee Cinema
 https://streamer-1.toffeelive.com/live/zee_cinema_720/index.m3u8
@@ -144,9 +144,9 @@ https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
 https://streamer-1.toffeelive.com/live/zee_action_720/index.m3u8
 #EXTINF:-1,tvg-logo="https://v3img.voot.com/v3Storage/channel-logos/COLORS_HINDI.png" group-title="IND",Colors
 http://fr-c.movply.stream/hls/Colors.m3u8
-#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/88582_Zing1.jpg" group-title="IND",Zing
+#EXTINF:-1,tvg-logo="https://smartsolutionpteltd.com/tv/images/88582_Zing1.jpg" group-title="IND",Zing
 http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
-#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/88582_Zing1.jpg" group-title="IND",Zing 3
+#EXTINF:-1,tvg-logo="https://smartsolutionpteltd.com/tv/images/88582_Zing1.jpg" group-title="IND",Zing 3
 http://livecdnh1.tvanywhere.ae/hls/zing/04.m3u8
 #EXTINF:-1,tvg-logo="https://bestmediainfo.com/wp-content/uploads/2018/04/9XO_logo_5.jpg" group-title="IND",9XO
 https://streamer-1.toffeelive.com/live/9xo_720/index.m3u8
@@ -162,13 +162,13 @@ https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/56677_mbc-bolli-1.jpg" group-title="IND",MBC Bollywood
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
-#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/75087_sony-pics.jpg" group-title="IND",Sony Pix HD
+#EXTINF:-1,tvg-logo="https://smartsolutionpteltd.com/tv/images/75087_sony-pics.jpg" group-title="IND",Sony Pix HD
 https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sony_Mix.jpg" group-title="IND",Sony Mix
 https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sony_MAX_logo.svg/1200px-Sony_MAX_logo.svg.png" group-title="IND",Sony Max
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
-#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/75087_sony-pics.jpg" group-title="IND",Sony Entertainment
+#EXTINF:-1,tvg-logo="https://smartsolutionpteltd.com/tv/images/75087_sony-pics.jpg" group-title="IND",Sony Entertainment
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/07/MNX-logo-3-2.jpg" group-title="IND",Movies Now X
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8

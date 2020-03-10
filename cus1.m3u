@@ -56,7 +56,7 @@ https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/sangeet_bangla.m3u
 #EXTINF:-1, tvg-logo="https://www.mediabangladesh.net/wp-content/uploads/2015/03/channel-i-logo.jpg" group-title="BAN",Channel i
 https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/channel_i_720.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="BAN",Colors Bangla
-https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/colors_bangla.m3u8
+http://live.robitvplus.com/hls/aWgJd_YFzVGahdZks6iV7w/1576789156/colors_bangla.m3u8
 #EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/e9/0b/97/e90b974fa7fc1481b8a530a8783ff7e5.png" group-title="BAN",Probashi Bangla
 http://vod.beeiptv.com:8081/vod/probashibangla/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/66852_speace-tv1.jpg" group-title="BAN",Peace TV Bangla

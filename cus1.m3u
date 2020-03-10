@@ -62,10 +62,6 @@ http://vod.beeiptv.com:8081/vod/probashibangla/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/66852_speace-tv1.jpg" group-title="BAN",Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8?
 
-#EXTINF:-1, tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="BAN",News 24
-
-
-
 #EXTINF:-1,tvg-logo="https://smartsolutionpteltd.com/tv/images/83992_zee-aflam-1.jpg" group-title="IND",ZEE AFLAM
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1, tvg-logo="https://globalbanglatv.https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_list/zeecinema_1989975871.png" group-title="BAN",Zee Cinema

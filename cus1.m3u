@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://media-eng.dhakatribune.com/uploads/2019/09/web-btv-n-1567436219502.jpg" group-title="BAN",BTV
+https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/btv.m3u8
 #EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/73974_btv.jpg" group-title="BAN",BTV World
 https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/btvworld.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="BAN",Sangsad TV

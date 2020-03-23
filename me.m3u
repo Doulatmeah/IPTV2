@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/a/AGF-l79lhwk0bOP-4fHFu0H2nfiogqCL57RLjdV7rQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="BAN",Zee Bangla SD
+https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/zeebangla.m3u8
+#EXTINF:-1, tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="BAN",Zee Bangla HD
+https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/zee_bangla_hd.m3u8
+#EXTINF:-1, tvg-logo="https://globalbanglatv.com/wp-content/uploads/2019/11/zee-bangla-cinema.jpg" group-title="BAN",Zee Bangla Cinema
+https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/zeebanglacinema.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="BAN",Sony Aath
+https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/sony_aath.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BAN",Gazi TV
+https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/gtv3.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BAN",Gazi TV
+https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/gtv1.m3u8
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/68005_indipendent.jpg" group-title="BAN",Independent TV
+https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/independent_720.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BAN",DBC NEWS
+https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/dbc_news_720.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="BAN",Channel 24
+https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/channel_24.m3u8
+#EXTINF:-1, tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x91288" group-title="BAN",Ananda TV
+https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/ananda_tv_720.m3u8
+#EXTINF:-1, tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x91288" group-title="BAN",Desh TV
+https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/desh_tv_720.m3u8
+#EXTINF:-1, tvg-logo="https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF#/media/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg" group-title="BAN",Somoy News TV
+https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/somoy_tv_720.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="BAN",Gaan Bangla
+https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/gaan_bangla1.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/200px-Boishakhi_TV_logo.svg.png" group-title="BAN",Boishakhi TV 1
+https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/boishakhi_720.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="BAN",Ekattor TV
+https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/ekattor_hd.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="BAN",My TV
+https://streamer-1.toffeelive.com/live/my_tv_720/index.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG" group-title="BAN",RTV
+https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/rtv.m3u8
+#EXTINF:-1, tvg-logo="https://www.mediabangladesh.net/wp-content/uploads/2015/03/channel-i-logo.jpg" group-title="BAN",Channel i
+https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/channel_i_720.m3u8
+#EXTINF:-1, tvg-logo="" group-title="BAN",channel 24
+https://streamer-1.toffeelive.com/live/channel_24_720/index.m3u8
+#EXTINF:-1, tvg-logo="" group-title="BAN",Bangla TV HD
+https://streamer-1.toffeelive.com/live/bangla_tv_hd_720/index.m3u8
+#EXTINF:-1, tvg-logo="" group-title="BAN",Ananda TV
+https://streamer-1.toffeelive.com/live/ananda_tv_720/index.m3u8
+#EXTINF:-1, tvg-logo="" group-title="BAN",Akash Aath
+https://streamer-1.toffeelive.com/live/akash_aath_720/index.m3u8
+#EXTINF:-1, tvg-logo="" group-title="BAN",DD Bangla
+https://streamer-1.toffeelive.com/live/dd_bangla_720/index.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="BAN",Sangeet Bangla
+https://streamer-1.toffeelive.com/live/sangeet_bangla_720/index.m3u8
+#EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/e9/0b/97/e90b974fa7fc1481b8a530a8783ff7e5.png" group-title="BAN",Probashi Bangla
+http://vod.beeiptv.com:8081/vod/probashibangla/playlist.m3u8
+
+
+

@@ -58,7 +58,7 @@ https://streamer-1.toffeelive.com/live/zee_cinema_720/index.m3u8
 https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
 #EXTINF:-1,tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_list/zeeaction_741233369.png" group-title="IND",ZEE Action
 https://streamer-1.toffeelive.com/live/zee_action_720/index.m3u8
-#EXTINF:-1,tvg-logo="https://smartsolutionpteltd.com/tv/images/88582_Zing1.jpg" group-title="IND",Zing 2
+#EXTINF:-1,tvg-logo="https://smartsolutionpteltd.com/tv/images/88582_Zing1.jpg" group-title="IND",Zing
 http://livecdnh1.tvanywhere.ae/hls/zing/04.m3u8
 #EXTINF:-1,tvg-logo="https://bestmediainfo.com/wp-content/uploads/2018/04/9XO_logo_5.jpg" group-title="IND",9XO
 https://streamer-1.toffeelive.com/live/9xo_720/index.m3u8
@@ -155,6 +155,7 @@ https://streamer-1.toffeelive.com/live/cgtn_720/index.m3u8
 https://streamer-1.toffeelive.com/live/wion_tv_720/index.m3u8
 #EXTINF:-1, tvg-logo="" group-title="ENG",Times Now
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:-1, tvg-logo="" group-title="ENG",Breaking News
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxNews.us.png" group-title="ENG",FOX News
 https://live.hinews.live/stream/fox/playlist.m3u8

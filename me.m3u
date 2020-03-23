@@ -88,21 +88,20 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="IND",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="IND",Sony Yay
 https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="IND",Bflix
 https://streamer-1.toffeelive.com/live/bflix_720/index.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="IND",Set Max HD
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="IND",Sony Sab
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="IND",Zee Action
 https://streamer-1.toffeelive.com/live/zee_action_720/index.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="IND",Zee Etc
 https://streamer-1.toffeelive.com/live/z_etc_bollywood_720/index.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="IND",Music India
 https://streamer-1.toffeelive.com/live/music_india_720/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="ENG",STAR MOVIES HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="ENG",Star Movies SD
@@ -146,11 +145,26 @@ https://streamer-1.toffeelive.com/live/euro_news_720/index.m3u8
 https://streamer-1.toffeelive.com/live/aljazeera_720/index.m3u8
 #EXTINF:-1, tvg-logo="http://db.radioline.fr/pictures/radio_05461441af82e70f5c4bf24dd3961b18/logo200.jpg" group-title="ENG",DW
 https://streamer-1.toffeelive.com/live/dw_720/index.m3u8
-
+#EXTINF:-1, tvg-logo="" group-title="ENG",CCTV 4
 https://streamer-1.toffeelive.com/live/cctv_4_720/index.m3u8
+#EXTINF:-1, tvg-logo="" group-title="ENG",Lotus
 https://streamer-1.toffeelive.com/live/lotus_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTN.au.png" group-title="ENG",CGTN
 https://streamer-1.toffeelive.com/live/cgtn_720/index.m3u8
+#EXTINF:-1, tvg-logo="" group-title="ENG",Wion
 https://streamer-1.toffeelive.com/live/wion_tv_720/index.m3u8
+#EXTINF:-1, tvg-logo="" group-title="ENG",Times Now
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxNews.us.png" group-title="ENG",FOX News
+https://live.hinews.live/stream/fox/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/844708508989841408/HLuil94O_400x400.jpg" group-title="ENG",Mirror Now
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+#EXTINF:-1 tvg-logo="https://cloudfront.timesnownews.com/site/static/web_t3/web_new/images/logo.png" group-title="ENG",Times Now
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkyNews.uk.png" group-title="ENG",Sky News UK
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="ENG",Bloomberg Asia
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="ENG",Bloomberg US
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8

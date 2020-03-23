@@ -35,15 +35,17 @@ https://streamer-1.toffeelive.com/live/my_tv_720/index.m3u8
 https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/rtv.m3u8
 #EXTINF:-1, tvg-logo="https://www.mediabangladesh.net/wp-content/uploads/2015/03/channel-i-logo.jpg" group-title="BAN",Channel i
 https://raw.githubusercontent.com/Doulatmeah/bdchannel/master/channel_i_720.m3u8
-#EXTINF:-1, tvg-logo="" group-title="BAN",channel 24
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/14610_channel24.jpg" group-title="BAN",channel 24
 https://streamer-1.toffeelive.com/live/channel_24_720/index.m3u8
-#EXTINF:-1, tvg-logo="" group-title="BAN",Bangla TV HD
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/33998_BanglaTV.jpg" group-title="BAN",Bangla TV HD
 https://streamer-1.toffeelive.com/live/bangla_tv_hd_720/index.m3u8
-#EXTINF:-1, tvg-logo="" group-title="BAN",Ananda TV
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/83890_Ananda-TV.jpg" group-title="BAN",Ananda TV
 https://streamer-1.toffeelive.com/live/ananda_tv_720/index.m3u8
-#EXTINF:-1, tvg-logo="" group-title="BAN",Akash Aath
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/66915_abp-2.jpg" group-title="BAN",ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/87715_in-aakaash2.jpg" group-title="BAN",Akash Aath
 https://streamer-1.toffeelive.com/live/akash_aath_720/index.m3u8
-#EXTINF:-1, tvg-logo="" group-title="BAN",DD Bangla
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/50696_dd-bangla-1.jpg" group-title="BAN",DD Bangla
 https://streamer-1.toffeelive.com/live/dd_bangla_720/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="BAN",Sangeet Bangla
 https://streamer-1.toffeelive.com/live/sangeet_bangla_720/index.m3u8
@@ -88,19 +90,19 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="IND",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND",Sony Yay
+#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/9830_Sony-yay-2.jpg" group-title="IND",Sony Yay
 https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND",Bflix
+#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/6791_bflix-2.jpg" group-title="IND",Bflix
 https://streamer-1.toffeelive.com/live/bflix_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND",Set Max HD
+#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/78997_Sony-max-hd.jpg" group-title="IND",Set Max HD
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND",Sony Sab
+#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/10605_sony-sab-1.jpg" group-title="IND",Sony Sab
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND",Zee Action
+#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/46272_zee-action-1.jpg" group-title="IND",Zee Action
 https://streamer-1.toffeelive.com/live/zee_action_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND",Zee Etc
+#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/57809_Zee-ETC-1.jpg" group-title="IND",Zee Etc
 https://streamer-1.toffeelive.com/live/z_etc_bollywood_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IND",Music India
+#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/99128_music-india-2.jpg" group-title="IND",Music India
 https://streamer-1.toffeelive.com/live/music_india_720/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="ENG",STAR MOVIES HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
@@ -145,17 +147,17 @@ https://streamer-1.toffeelive.com/live/euro_news_720/index.m3u8
 https://streamer-1.toffeelive.com/live/aljazeera_720/index.m3u8
 #EXTINF:-1, tvg-logo="http://db.radioline.fr/pictures/radio_05461441af82e70f5c4bf24dd3961b18/logo200.jpg" group-title="ENG",DW
 https://streamer-1.toffeelive.com/live/dw_720/index.m3u8
-#EXTINF:-1, tvg-logo="" group-title="ENG",CCTV 4
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/61062_cctv-4-2.jpg" group-title="ENG",CCTV 4
 https://streamer-1.toffeelive.com/live/cctv_4_720/index.m3u8
-#EXTINF:-1, tvg-logo="" group-title="ENG",Lotus
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/30334_lotus-macau-1.jpg" group-title="ENG",Lotus
 https://streamer-1.toffeelive.com/live/lotus_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTN.au.png" group-title="ENG",CGTN
 https://streamer-1.toffeelive.com/live/cgtn_720/index.m3u8
-#EXTINF:-1, tvg-logo="" group-title="ENG",Wion
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/26015_WION_TV_1.jpg" group-title="ENG",Wion
 https://streamer-1.toffeelive.com/live/wion_tv_720/index.m3u8
-#EXTINF:-1, tvg-logo="" group-title="ENG",Times Now
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/41875_times-now-2.jpg" group-title="ENG",Times Now
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-#EXTINF:-1, tvg-logo="" group-title="ENG",Breaking News
+#EXTINF:-1, tvg-logo="https://s3.amazonaws.com/tgna-assets/WCNC/images/620022580/620022580_750x422.jpg" group-title="ENG",Breaking News
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxNews.us.png" group-title="ENG",FOX News
 https://live.hinews.live/stream/fox/playlist.m3u8

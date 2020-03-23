@@ -105,21 +105,23 @@ https://streamer-1.toffeelive.com/live/z_etc_bollywood_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/99128_music-india-2.jpg" group-title="IND",Music India
 https://streamer-1.toffeelive.com/live/music_india_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="PAK",Hum Masala
+#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/90192_Ham-Masala-2.jpg" group-title="PAK",Hum Masala
 https://streamer-1.toffeelive.com/live/hum_masala_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PAK",PTV World
+#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/38001_ptv.jpg" group-title="PAK",PTV World
 https://streamer-1.toffeelive.com/live/ptv_world_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PAK",Ary Music
+#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/50487_ptv-sports-1.jpg" group-title="PAK",PTV Sports
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/21436_arymusictv.jpg" group-title="PAK",Ary Music
 https://streamer-1.toffeelive.com/live/ary_music_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PAK",Ary Family
+#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/21123_ary-family-1.jpg" group-title="PAK",Ary Family
 https://streamer-1.toffeelive.com/live/ary_family_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PAK",Ary Digital
+#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/43244_ary-digital.jpg" group-title="PAK",Ary Digital
 https://streamer-1.toffeelive.com/live/ary_digital_asia_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PAK",Ptv Global
+#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/63145_ptv-global-2.jpg" group-title="PAK",PTV Global
 https://streamer-1.toffeelive.com/live/ptv_global_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PAK",Geo News
+#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/67095_geo-news.jpg" group-title="PAK",Geo News
 https://streamer-1.toffeelive.com/live/geo_news_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PAK",Ary QTV
+#EXTINF:-1 tvg-logo="http://smartsolutionpteltd.com/tv/images/54265_ary-qtv-2.jpg" group-title="PAK",Ary QTV
 https://streamer-1.toffeelive.com/live/ary_qtv_720/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="ENG",STAR MOVIES HD

@@ -193,3 +193,8 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="ENG",Bloomberg US
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://zdnet2.cbsistatic.com/hub/i/r/2014/08/18/039b679f-26c6-11e4-8c7f-00505685119a/resize/1200x900/1afb77b9dd758c2e0ddf3a8087e0b4a1/al-arabiya-hacked.jpg" group-title="AR",Al Arabia
+https://streamer-1.toffeelive.com/live/al_arabia_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Saudi-Quran-Tv-Frequency-2yhl8od1usadqgkqyd0rgq.png" group-title="AR",Quran Tv
+https://streamer-1.toffeelive.com/live/quran_tv_720/index.m3u8

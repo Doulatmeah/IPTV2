@@ -49,6 +49,108 @@ https://streamer-1.toffeelive.com/live/dd_bangla_720/index.m3u8
 https://streamer-1.toffeelive.com/live/sangeet_bangla_720/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/e9/0b/97/e90b974fa7fc1481b8a530a8783ff7e5.png" group-title="BAN",Probashi Bangla
 http://vod.beeiptv.com:8081/vod/probashibangla/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://smartsolutionpteltd.com/tv/images/66852_speace-tv1.jpg" group-title="BAN",Peace TV Bangla
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="https://globalbanglatv.https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_list/zeecinema_1989975871.png" group-title="BAN",Zee Cinema
+https://streamer-1.toffeelive.com/live/zee_cinema_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tv-hd-logo-300x300.jpg" group-title="IND",ZEE TV HD
+https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_list/zeeaction_741233369.png" group-title="IND",ZEE Action
+https://streamer-1.toffeelive.com/live/zee_action_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://smartsolutionpteltd.com/tv/images/88582_Zing1.jpg" group-title="IND",Zing 2
+http://livecdnh1.tvanywhere.ae/hls/zing/04.m3u8
+#EXTINF:-1,tvg-logo="https://bestmediainfo.com/wp-content/uploads/2018/04/9XO_logo_5.jpg" group-title="IND",9XO
+https://streamer-1.toffeelive.com/live/9xo_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.bizasialive.com/wp-content/uploads/2019/06/9xm001.jpg" group-title="IND",9XM
+https://streamer-1.toffeelive.com/live/9xm_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png" group-title="IND",Music India
+https://streamer-1.toffeelive.com/live/music_india_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/%26TV.jpg8" group-title="IND",&TV
+https://streamer-1.toffeelive.com/live/ntv_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://image.winudf.com/v2/image/Y29tLm11c2ljZW50ZXJ0YWlubWVudGJkLnNvbnlzYWJoZF9zY3JlZW5fMF8xNTI2OTgzMzk5XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg" group-title="IND",Sony Sab
+https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/994889981847105536/2IFtV2Cf_400x400.jpg" group-title="IND", B4U PLUS
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1,tvg-logo="http://smartsolutionpteltd.com/tv/images/56677_mbc-bolli-1.jpg" group-title="IND",MBC Bollywood
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
+#EXTINF:-1,tvg-logo="https://smartsolutionpteltd.com/tv/images/75087_sony-pics.jpg" group-title="IND",Sony Pix HD
+https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sony_Mix.jpg" group-title="IND",Sony Mix
+https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sony_MAX_logo.svg/1200px-Sony_MAX_logo.svg.png" group-title="IND",Sony Max
+https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://smartsolutionpteltd.com/tv/images/75087_sony-pics.jpg" group-title="IND",Sony Entertainment
+https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/07/MNX-logo-3-2.jpg" group-title="IND",Movies Now X
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/NDTV24x7.in.png" group-title="IND",NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="IND",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
+https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
+
+https://streamer-1.toffeelive.com/live/bflix_720/index.m3u8
+
+https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
+
+https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
+
+https://streamer-1.toffeelive.com/live/zee_action_720/index.m3u8
+
+https://streamer-1.toffeelive.com/live/z_etc_bollywood_720/index.m3u8
+
+https://streamer-1.toffeelive.com/live/music_india_720/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="ENG",STAR MOVIES HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="ENG",Star Movies SD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="ENG",STAR MOVIES FHD
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/1200px-STAR_World.svg.png" group-title="ENG",STAR WORLD HD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/1200px-STAR_World.svg.png" group-title="ENG",Star World SD
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="ENG",HBO
+https://livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="ENG",HBO Hits
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/MNX2.in.png" group-title="ENG",MNX Movies
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+
+#EXTINF:-1, tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/APLHD/large_white.png" group-title="IND",Animal Planet
+https://streamer-1.toffeelive.com/live/animal_planet_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" group-title="Sport",Sony Ten 1
+https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" group-title="Sport",Sony Ten 1 HD
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/180px-Sony_ESPN_logo.svg.png" group-title="Sport",Sony ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://realvubd.com/wp-content/uploads/2016/04/SONY-TEN2-SD_on-white-1024x819.png" group-title="Sport",Sony Ten 2
+https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://realvubd.com/wp-content/uploads/2016/04/SONY-TEN2-SD_on-white-1024x819.png" group-title="Sport",Sony Ten 2 HD
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/originals/e4/d7/32/e4d73275b3532613c07d5883b59e1803.png" group-title="Sport",Sony Ten 3
+https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sport",Sony SIX
+https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sport",Sony SIX HD
+https://streamer-1.toffeelive.com/live/sony_six_hd_720/index.m3u8
 
 
+#EXTINF:-1,tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/86/4f/b0/864fb0ca-d090-b4da-ac15-f11cef17f538/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg" group-title="ENG",Euro News
+https://streamer-1.toffeelive.com/live/euro_news_720/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.gco.gov.qa/wp-content/uploads/2018/04/al-jaz.jpg" group-title="ENG",Al Jazeera
+https://streamer-1.toffeelive.com/live/aljazeera_720/index.m3u8
+#EXTINF:-1, tvg-logo="http://db.radioline.fr/pictures/radio_05461441af82e70f5c4bf24dd3961b18/logo200.jpg" group-title="ENG",DW
+https://streamer-1.toffeelive.com/live/dw_720/index.m3u8
 
+https://streamer-1.toffeelive.com/live/cctv_4_720/index.m3u8
+https://streamer-1.toffeelive.com/live/lotus_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTN.au.png" group-title="ENG",CGTN
+https://streamer-1.toffeelive.com/live/cgtn_720/index.m3u8
+https://streamer-1.toffeelive.com/live/wion_tv_720/index.m3u8
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8

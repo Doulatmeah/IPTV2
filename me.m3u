@@ -162,6 +162,28 @@ https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sport",Sony SIX HD
 https://streamer-1.toffeelive.com/live/sony_six_hd_720/index.m3u8
 
+#EXTINF:-1,Star Sports Select HD
+http://103.58.73.26/streams/113/index.m3u8
+#EXTINF:-1,Star Sports Select 2 HD
+http://103.58.73.26/streams/114/index.m3u8
+#EXTINF:-1,Star Sports 1 HD
+http://103.58.73.26/streams/104/index.m3u8
+#EXTINF:-1,Star Sports 2 HD
+http://103.58.73.26/streams/116/index.m3u8
+#EXTINF:-1,SONY Espn HD
+http://103.58.73.26/streams/110/index.m3u8
+#EXTINF:-1,Sony Ten 1
+http://103.58.73.26/streams/105/index.m3u8
+#EXTINF:-1,Sony Ten 2 HD
+http://103.58.73.26/streams/112/index.m3u8
+#EXTINF:-1,Sony Six
+http://103.58.73.26/streams/106/index.m3u8
+#EXTINF:-1,Sony MAX
+http://103.58.73.26/streams/109/index.m3u8
+#EXTINF:-1,HBO
+http://103.58.73.26/streams/111/index.m3u8
+#EXTINF:-1,GTV
+http://103.58.73.26/streams/108/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/86/4f/b0/864fb0ca-d090-b4da-ac15-f11cef17f538/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg" group-title="ENG",Euro News
 https://streamer-1.toffeelive.com/live/euro_news_720/index.m3u8

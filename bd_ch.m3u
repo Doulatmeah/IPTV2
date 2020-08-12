@@ -69,6 +69,15 @@ http://tempx.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://tempx.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjAgODozMDozMSBQTSZoYXNoX3ZhbHVlPU5kQ1B1VXpuS0N5aXZ3RHhMazJ5dUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MDY=
 #EXTINF:-1, tvg-logo="" group-title="BAN",Boishakhi TV
 http://tempx.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjAgODozNDo0NSBQTSZoYXNoX3ZhbHVlPTJheGVhSE1Ea250OVJiSzNEblVaVVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MDY=
+
+#EXTINF:-1,tvg-logo="" group-title="ENG",Al Jazeera
+https://itpolly.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="ENG",Al Jazeera
+https://edge01.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="ENG",BBC World
+https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="ENG",BBC World
+https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 #EXTINF:-1,tvg-logo="" group-title="ENG",Animal Planet
 http://45.249.187.238:8081/hls/tsl-1.m3u8
 #EXTINF:-1,tvg-logo="" group-title="ENG",UTV Action
@@ -163,6 +172,10 @@ https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 #EXTINF:-1,tvg-logo="" group-title="IND",Zoom
 https://edge01.iptv.digijadoo.net/live/zoom/playlist.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",Zing
+https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",Zing
+https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
 
 #EXTINF:-1,tvg-logo="" group-title="Sport",DD Sports
 https://itpolly.iptv.digijadoo.net/live/dd_sports/chunks.m3u8

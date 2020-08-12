@@ -15,6 +15,10 @@ https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:-1,tvg-logo="" group-title="BAN",Sony Aath
 http://103.205.133.14/hls/sony8.m3u8
+#EXTINF:-1,tvg-logo="" group-title="BAN",SangeetBangla
+https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="BAN",SangeetBangla
+https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1, tvg-logo="" group-title="BAN",Bangla Vision
 http://tempx.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjAgNDoxMTo0MCBQTSZoYXNoX3ZhbHVlPVpycXF2MVc3eUZxV05WVk83d2R5dkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MDY=
 #EXTINF:-1, tvg-logo="" group-title="BAN",Somoy TV
@@ -65,19 +69,102 @@ http://tempx.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://tempx.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjAgODozMDozMSBQTSZoYXNoX3ZhbHVlPU5kQ1B1VXpuS0N5aXZ3RHhMazJ5dUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MDY=
 #EXTINF:-1, tvg-logo="" group-title="BAN",Boishakhi TV
 http://tempx.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjAgODozNDo0NSBQTSZoYXNoX3ZhbHVlPTJheGVhSE1Ea250OVJiSzNEblVaVVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MDY=
-#EXTINF:-1, tvg-logo="" group-title="ENG",Animal Planet
+#EXTINF:-1,tvg-logo="" group-title="ENG",Animal Planet
 http://45.249.187.238:8081/hls/tsl-1.m3u8
-#EXTINF:-1, tvg-logo="" group-title="ENG",UTV Action
+#EXTINF:-1,tvg-logo="" group-title="ENG",UTV Action
 http://45.249.187.238:8081/hls/tsl-7.m3u8
-#EXTINF:-1, tvg-logo="" group-title="IND",Star Movies
+#EXTINF:-1,tvg-logo="" group-title="ENG",BBC Lifestyle
+https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="ENG",BBC Lifestyle
+https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="ENG",TLC HD English
+https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="ENG",TLC HD English
+https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="ENG",Nat Geo
+https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="ENG",Nat Geo
+https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="ENG",Nat Geo Wild
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="ENG",Nat Geo People
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="ENG",Nat Geo People
+https://edge01.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="ENG",Movies Now
+https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="ENG",Movies Now
+https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="ENG",Lotus Macaw
+https://itpolly.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="ENG",Lotus Macaw
+https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+
+#EXTINF:-1,tvg-logo="" group-title="Cartoon",Nick
+https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Cartoon",Nick
+https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Cartoon",Nick HD+
+https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Cartoon",Nick Jr
+https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Cartoon",Nick Sonic
+https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Cartoon",Nick Sonic
+https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
+
+#EXTINF:-1,tvg-logo="" group-title="IND",Star Movies
 http://45.249.187.238:8081/hls/tsl-8.m3u8
-#EXTINF:-1, tvg-logo="" group-title="IND",& Picture
+#EXTINF:-1,tvg-logo="" group-title="IND",& Picture
 http://45.249.187.238:8081/hls/tsl-2.m3u8
-#EXTINF:-1, tvg-logo="" group-title="IND",Sony Sab
+#EXTINF:-1,tvg-logo="" group-title="IND",Sony Sab
 http://45.249.187.238:8081/hls/tsl-4.m3u8
-#EXTINF:-1, tvg-logo="" group-title="IND",Zee TV
+#EXTINF:-1,tvg-logo="" group-title="IND",Zee TV
 http://45.249.187.238:8081/hls/tsl-5.m3u8
-#EXTINF:-1, tvg-logo="" group-title="IND",&TV
+#EXTINF:-1,tvg-logo="" group-title="IND",Zee TV SD
+http://103.205.133.19/hls/zeetv.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",&TV
 http://45.249.187.238:8081/hls/tsl-6.m3u8
-#EXTINF:-1, tvg-logo="" group-title="IND",Sony Six HD
+#EXTINF:-1,tvg-logo="" group-title="IND",Sony Six HD
 http://103.205.133.14/hls/sonysix.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",Zee Bollywood
+https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",Zee Bollywood
+https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",Zee Cinema
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",Zee Cinema
+https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",Star Plus
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",Star Plus
+https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",Colors Rishtey
+https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",Colors Rishtey
+https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",Colors HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",Colors HD
+https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",Fox Life
+https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",Fox Life
+https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",FComedy Central
+https://itpolly.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",FComedy Central
+https://edge01.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",Manoranjan Movies
+https://itpolly.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",Manoranjan Movies
+https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",Zoom
+https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
+#EXTINF:-1,tvg-logo="" group-title="IND",Zoom
+https://edge01.iptv.digijadoo.net/live/zoom/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="" group-title="Sport",DD Sports
+https://itpolly.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Sport",DD Sports
+https://edge01.iptv.digijadoo.net/live/dd_sports/chunks.m3u8

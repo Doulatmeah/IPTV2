@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="" group-title="BAN",Star Jalsha HD
+https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+#EXTINF:-1,tvg-logo="" group-title="BAN",Star Jalsha HD
+https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+#EXTINF:-1,tvg-logo="" group-title="BAN",Jalsha Movies
+https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="BAN",Zee Bangla
+https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="BAN",Zee Bangla
+https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+#EXTINF:-1,tvg-logo="" group-title="BAN",Colors Bangla HD
+https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+#EXTINF:-1,tvg-logo="" group-title="BAN",Colors Bangla HD
+https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+#EXTINF:-1,tvg-logo="" group-title="BAN",Sony Aath
+http://103.205.133.14/hls/sony8.m3u8
 #EXTINF:-1, tvg-logo="" group-title="BAN",Bangla Vision
 http://tempx.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjAgNDoxMTo0MCBQTSZoYXNoX3ZhbHVlPVpycXF2MVc3eUZxV05WVk83d2R5dkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MDY=
 #EXTINF:-1, tvg-logo="" group-title="BAN",Somoy TV
@@ -63,4 +79,5 @@ http://45.249.187.238:8081/hls/tsl-4.m3u8
 http://45.249.187.238:8081/hls/tsl-5.m3u8
 #EXTINF:-1, tvg-logo="" group-title="IND",&TV
 http://45.249.187.238:8081/hls/tsl-6.m3u8
-
+#EXTINF:-1, tvg-logo="" group-title="IND",Sony Six HD
+http://103.205.133.14/hls/sonysix.m3u8
